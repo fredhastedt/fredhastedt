@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fred-Ha
+- 👋 Hi, I’m @fredhastedt
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning advanced optimisation and ML with python.
 - 💞️ I’m looking to collaborate on...
