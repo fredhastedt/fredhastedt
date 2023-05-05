@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fredhastedt
-- 👀 I’m interested in machine learning.
+- 👀 I’m interested in machine learning applications in chemical engineering and chemoinformatics.
 - 🌱 I’m currently learning advanced optimisation and ML with python.
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on anything relating process system engineering and optimisation.
 - 📫 How to reach me:
       Email: fgh18@ic.ac.uk
 
